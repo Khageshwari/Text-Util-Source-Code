@@ -1,0 +1,16 @@
+#pp{
+    width: 200px;
+}
+.word{
+    margin-top: 50px;
+    width: 800px;
+    height: 300px;
+    background-color: rgb(240, 248, 248);
+    border-radius: 30px;
+    padding: 20px;
+    border: 10px solid rgb(239, 239, 248);
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+}
